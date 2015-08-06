@@ -1,0 +1,36 @@
+
+tapThatBtnSkin.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+blue_button
+  rotate: false
+  xy: 1, 1
+  size: 516, 516
+  orig: 516, 516
+  offset: 0, 0
+  index: -1
+
+tapThatBtnSkin2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+green_button
+  rotate: false
+  xy: 1, 1
+  size: 516, 516
+  orig: 516, 516
+  offset: 0, 0
+  index: -1
+
+tapThatBtnSkin3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+red_button
+  rotate: false
+  xy: 1, 1
+  size: 516, 516
+  orig: 516, 516
+  offset: 0, 0
+  index: -1
